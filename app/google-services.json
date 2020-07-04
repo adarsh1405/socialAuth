@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583228218674",
+    "firebase_url": "https://socialauth-95f76.firebaseio.com",
+    "project_id": "socialauth-95f76",
+    "storage_bucket": "socialauth-95f76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583228218674:android:9d46131c14e6392e64cb2b",
+        "android_client_info": {
+          "package_name": "com.adarsh.socialauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583228218674-psj70cp221f2ghkm7nt7r1viqnmqke3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfemUompw5IXeV6FWXE5nEiHurrR3PBdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583228218674-psj70cp221f2ghkm7nt7r1viqnmqke3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
